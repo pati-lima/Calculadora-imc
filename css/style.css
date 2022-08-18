@@ -1,0 +1,15 @@
+body {
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(91, 119, 110);
+  }
+  #paragraph-result{
+    margin-top: 50px;
+  }
+
+  input{
+    margin-top: 5px;
+    width: 200px;
+  }
+
+  
